@@ -3,7 +3,7 @@ Velocita E-Racing team
 
 This repository is created for the Velocita E-Racing Team of PSG Institute of Technology and Applied Research
 
-Velocita e Racing is a Electric vehicle project team consisting of students from multiple branches working together to bring a change in ev industry.
+Velocita E-Racing is a Electric vehicle project team consisting of students from multiple branches working together to bring a change in ev industry.
 
 
 Any quiries feel free to contact
